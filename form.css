@@ -1,0 +1,93 @@
+
+
+body{
+    background-color: rgb(0, 200, 255);
+
+}
+.content{
+    /* float:right;
+    clear:left;
+ 
+    */
+    background-color: silver;
+    width: 40%;
+    height: 900px;
+ border: 2px solid rgb(73, 69, 69);
+     
+ 
+     
+ }
+ form{
+     opacity: calc(75%);
+     
+     border-radius: 1.5%;
+     padding-left: 4%;
+     padding-top: 3.5%;
+     background-color:rgb(255, 0, 85);
+     color: whitesmoke;
+     font-size: larger;
+     box-shadow: 3px 7px 15px rgb(0, 0, 0);
+    max-width: 430px;
+   min-height: 640px;
+ }
+ #name{
+ 
+     box-shadow: 0px 2px 3px rgb(24, 13, 13);
+ }
+ 
+ #email{
+ margin-top: 9%;
+ box-shadow: 0px 2px 5px black;
+ }
+ 
+ #Password{
+     margin-top: 9%;
+     box-shadow: 0px 2px 5px black;
+     max-width: 150px;
+ }
+ 
+ #confirm-password{
+     margin-top: 9%;
+     box-shadow: 0px 2px 5px black;
+ }
+ #message{
+ 
+     margin-top: 10%;
+     border-radius: 1.5%;
+     padding: 12%;
+     border-color: black;
+     box-shadow: 0px  2px 8px  rgb(6, 5, 5);
+     
+ }
+ 
+ #cities{
+     padding: 1%;
+     box-shadow: 0px 3px 5px black;
+ border-radius: 2%;
+ 
+ }
+ 
+ button{
+ margin-left: 9%;
+     margin-top: 3.5%;
+     border-radius: 3%;
+     padding: 3%;
+     background-color:rgb(0, 0, 0);
+ color: whitesmoke;
+ font-size: 18px;
+ box-shadow: 0px 3px 7px rgb(245, 245, 245) ;
+ cursor: pointer;
+ 
+ }
+ 
+ button:hover{
+     opacity: calc(80%);
+     border: 3px solid gray;
+ }
+ form:hover{
+     
+  opacity: calc(100%);
+     padding-left: 4%;
+     padding-top: 3.5%;
+     border:  1.5px solid gray;
+ }
